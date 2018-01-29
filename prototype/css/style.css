@@ -6,7 +6,7 @@ body {
 	font-size:14px;
 	font-weight:300;
 	line-height:1.6em;
-	color:#fff;
+	color:#272727;
 	background-color:#fff;
 	overflow-x:hidden;
 }
@@ -373,3 +373,13 @@ ul.social-network li a {
 /*===========================
   Menu and Navigation ------
 ============================ */
+.section {
+  padding: 100px 0;
+}
+
+
+
+
+.contact .contact-form .form-control {
+  margin-bottom: 30px;
+}
